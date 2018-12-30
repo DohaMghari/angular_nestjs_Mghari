@@ -1,0 +1,9 @@
+<div class="container col-md-8">
+  <br>
+  <h3>Ajouter un article</h3><br>
+  <textarea rows=10 class="form-control" placeholder="Content" [(ngModel)]="content" ></textarea><br>
+  <button class="btn btn-success" (click)="add()">Ajouter <i class="far fa-plus-square"></i></button><br><br>
+  <div class="alert alert-primary" role="alert" *ngIf="message">
+    {{ message }}
+  </div>
+</div>
