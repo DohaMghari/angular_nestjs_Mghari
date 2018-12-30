@@ -3,6 +3,7 @@
 Le projet utilise :
 * Angular pour le Front-end.
 * NestJS pour le back-end.
+
 Le projet permet d'ajouter, supprimer, modifier et recuperer des utilisateurs genere par Faker.
 
 Ainsi il permet d'ajouter, supprimer, modifier et recuperer des posts par utilisateur.
