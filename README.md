@@ -7,27 +7,26 @@ Le projet permet d'ajouter, supprimer, modifier et recuperer des utilisateurs ge
 
 Ainsi il permet d'ajouter, supprimer, modifier et recuperer des posts par utilisateur.
 
-##Page d'acceuil
+## Page d'acceuil
+![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/blob/master/captures/welcome_page.jpg)
 
-![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/master/captures/welcome_page.jpg)
+## Liste d'utilisateurs
 
-##Liste d'utilisateurs
+![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/blob/master/captures/liste_des_utilisateurs.jpg)
 
-![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/master/captures/liste_des_utilisateurs.jpg)
+## Postes d'un utilisateur
 
-##Postes d'un utilisateur
+![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/blob/master/captures/liste_des_articles.jpg)
 
-![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/master/captures/liste_des_articles.jpg)
+## Ajouter un utilisateur
 
-##Ajouter un utilisateur
+![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/blob/master/captures/Ajouter_un_utilisateur.jpg)
 
-![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/master/captures/Ajouter_un_utilisateur.jpg)
+## Ajouter Poste
 
-##Ajouter Poste
+![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/blob/master/captures/ajouter_un_article.jpg)
 
-![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/master/captures/ajouter_un_article.jpg)
+## Modifier Poste
 
-##Modifier Poste
-
-![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/master/captures/update_article.jpg)
+![alt text](https://github.com/DohaMghari/angular_nestjs_Mghari/blob/master/captures/update_article.jpg)
 
